@@ -18,3 +18,10 @@ Includes Mustang Maintenance & Support  
    
 
 <!--- ![alt text\](Isolated.png "Title") -->
+
+  
+  1) Remove filler neck
+  
+  ![image](https://user-images.githubusercontent.com/41387907/139320376-74aac9bd-0253-4927-8828-e21285852294.png)
+
+  2) Loosen strap bolts (Fuel tank must be totally drained...TOTALLY)
