@@ -1,6 +1,6 @@
-# randysmustang
+# randys-stang
 
-Randy's Mustang web site. Where to buy parts, how to fix, etcetera.
+Randy's 'stang web site. Where to buy parts, how to fix, etcetera.
 
 It's a one page website.  Maybe external cascade style sheet (css).  
 Includes Mustang Maintenance & Support  
